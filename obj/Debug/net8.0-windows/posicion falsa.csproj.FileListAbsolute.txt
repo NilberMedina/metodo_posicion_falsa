@@ -1,0 +1,19 @@
+D:\metodos numericos\posicion falsa\bin\Debug\net8.0-windows\posicion falsa.exe
+D:\metodos numericos\posicion falsa\bin\Debug\net8.0-windows\posicion falsa.deps.json
+D:\metodos numericos\posicion falsa\bin\Debug\net8.0-windows\posicion falsa.runtimeconfig.json
+D:\metodos numericos\posicion falsa\bin\Debug\net8.0-windows\posicion falsa.dll
+D:\metodos numericos\posicion falsa\bin\Debug\net8.0-windows\posicion falsa.pdb
+D:\metodos numericos\posicion falsa\bin\Debug\net8.0-windows\NCalc.dll
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.csproj.AssemblyReference.cache
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion_falsa.Form1.resources
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.csproj.GenerateResource.cache
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.AssemblyInfoInputs.cache
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.AssemblyInfo.cs
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.csproj.CoreCompileInputs.cache
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion.6C873920.Up2Date
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.dll
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\refint\posicion falsa.dll
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.pdb
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\posicion falsa.genruntimeconfig.cache
+D:\metodos numericos\posicion falsa\obj\Debug\net8.0-windows\ref\posicion falsa.dll
